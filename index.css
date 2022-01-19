@@ -42,7 +42,7 @@ a.Button_nav {
 }
 
 .container1 {
-    background-image: url(../images/Group-481.png);
+    background-image: url(/images/Group-481.png);
     position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
